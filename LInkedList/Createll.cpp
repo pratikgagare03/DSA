@@ -69,7 +69,7 @@ void display(node* first){
 
 
     if(first==NULL){
-        cout<<"->NULL"<<endl;
+        cout<<"->NULL "<<endl;
     }
     else
         cout<<"->";
